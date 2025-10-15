@@ -72,9 +72,13 @@ Customer Features:
 ✅ View assigned surveys
 
 ✅ Complete surveys with various question types
+
 ✅ Submit responses
+
 ✅ Track submission status
+
 ✅ View approved responses
+
 
 System Features:
 
